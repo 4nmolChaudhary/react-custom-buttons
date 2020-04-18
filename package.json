@@ -1,0 +1,17 @@
+{
+  "name": "react-custom-buttons",
+  "version": "1.0.0",
+  "description": "this is a react custom buttons library using styled components",
+  "main": "CustomButtons/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "styled-components": "^5.0.1"
+  },
+  "author": "Anmol Chaudhary",
+  "license": "ISC"
+}
